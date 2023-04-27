@@ -53,7 +53,7 @@ class App extends React.Component {
             alt="profile pic"
           />
           <h1 className="text-4xl md:text-7xl tracking-wider font-extrabold">
-            Sahil Andhar
+            Sahil Andhare
           </h1>
           <div className="text-2xl md:text-4xl text-[#00ff00]">
             <Typewriter
