@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sahil-biolink",
+=======
+  "name": "neeraj-biolink",
+>>>>>>> 2ba1443e87778c1ec91c443c3f608e93d5f687d2
   "private": true,
   "version": "0.0.0",
   "type": "module",
